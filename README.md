@@ -1,5 +1,2 @@
 # testoweJK
-<<<<<<< HEAD
-
-dsfasdsdsdfgfdsdfsdf fddfsdfsgdfdf
-
+dsfdsfsdfssdf
